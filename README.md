@@ -1,2 +1,2 @@
 # DHT11
-DHT11 kütüphanesidir
+DHT11 sıcaklık ve nem kütüphanesidir.
