@@ -8,7 +8,7 @@ dht11 DHT11;
 void setup()
 {
   Serial.begin(9600); // Seri iletişimi başlatıyoruz.
-  Serial.println("Arduinoturkiye.com DHT11 Test Programi");
+  Serial.println("DHT11 Test Programi");
 }
 
 void loop()
